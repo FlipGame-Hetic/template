@@ -1,6 +1,6 @@
 # Closing keywords :
 
-related to #XXX
+Closes #XXX
 
 ## Assignee section
 
@@ -12,7 +12,7 @@ Lorem ipsum
 
 #### Checks
 
-- [ ] Issue has a closing keyword (`related to #XXX`)
+- [ ] Issue has a closing keyword (`Closes #XXX`)
 - [ ] The PR is linked to the correct target branch
 - [ ] Every check in the issue has been verified
 - [ ] No build error
@@ -22,7 +22,7 @@ Lorem ipsum
 
 ## Reviewer section
 
-- [ ] Issue has a Closing Keyword `related to #XXX`
+- [ ] Issue has a Closing Keyword `Closes #XXX`
 - [ ] Less than 250 useful lines when solving a bug or implementing a feature
 - [ ] No dead / useless code (avoid commented code blocks)
 - [ ] No huge impact on performances
